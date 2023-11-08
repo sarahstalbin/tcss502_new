@@ -1,2 +1,2 @@
-"Hello there!" 
-"General Kenobi. You are a bold one."
+"Hello there!" -- Obi-Wan 
+"General Kenobi. You are a bold one." -- General Grievous
